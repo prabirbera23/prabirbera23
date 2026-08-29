@@ -58,7 +58,7 @@ Marketing and customer analysis using data modelling, SQL, Python, and clear bus
 
 ## Featured Project
 
-### Twilio Segment CDP Implementation for Ecommerce and Retail
+### [Twilio Segment CDP Implementation for Ecommerce and Retail](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
 
 An end-to-end CDP portfolio case study for **Trend Zone**, a fictional ecommerce and retail company. The implementation brings behavioural, transactional, CRM, and external data together to build unified customer profiles and support audience activation.
 
@@ -79,7 +79,7 @@ An end-to-end CDP portfolio case study for **Trend Zone**, a fictional ecommerce
 - Identity resolution and Customer 360
 - Audience creation and downstream activation
 
-> Status: Active implementation and documentation in progress.
+> Status: Active implementation and documentation in progress. **[View project →](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)**
 
 ---
 
@@ -87,7 +87,7 @@ An end-to-end CDP portfolio case study for **Trend Zone**, a fictional ecommerce
 
 | Area | Project | Status |
 |---|---|---|
-| CDP | Segment Implementation — Ecommerce and Retail | In progress |
+| CDP | [Segment Implementation — Ecommerce and Retail](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail) | In progress |
 | CDP | Salesforce Data 360 implementation | Planned |
 | CDP | Adobe Real-Time CDP implementation | Planned |
 | AI | Marketing automation project | Planned |
