@@ -1,0 +1,32 @@
+<svg width="1011" height="616" viewBox="0 0 1011 616" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1011" height="616" fill="#0D1117"/>
+<text x="33" y="47" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700">Featured Projects</text>
+<line x1="33" y1="65.5" x2="983" y2="65.5" stroke="#30363D"/>
+
+<rect x="33.5" y="87.5" width="949" height="160" rx="9.5" fill="#161B22" stroke="#30363D"/>
+<text x="58" y="139" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700">Twilio Segment CDP — Ecommerce &amp; Retail</text>
+<circle cx="859" cy="127" r="4" fill="#3FB950"/>
+<text x="870" y="134" fill="#3FB950" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="18">In progress</text>
+<text x="58" y="183" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="58" dy="0">Designed an end-to-end customer-data foundation connecting ecommerce, offline,</tspan>
+<tspan x="58" dy="32">marketplace and CRM data for unified profiles and activation.</tspan>
+</text>
+
+<rect x="33.5" y="263.5" width="949" height="159" rx="9.5" fill="#161B22" stroke="#30363D"/>
+<text x="58" y="315" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700">AI-Assisted JIRA Ticket Automation</text>
+<circle cx="881" cy="301" r="6" stroke="#3FB950" stroke-width="1.5"/>
+<text x="893" y="308" fill="#3FB950" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="18">Planned</text>
+<text x="58" y="359" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="58" dy="0">Planned an AI workflow that converts business requests into structured,</tspan>
+<tspan x="58" dy="32">implementation-ready MarTech tickets.</tspan>
+</text>
+
+<rect x="33.5" y="438.5" width="949" height="159" rx="9.5" fill="#161B22" stroke="#30363D"/>
+<text x="58" y="490" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700">Marketing Analytics with SQL &amp; Python</text>
+<circle cx="881" cy="476" r="6" stroke="#3FB950" stroke-width="1.5"/>
+<text x="893" y="483" fill="#3FB950" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="18">Planned</text>
+<text x="58" y="534" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="58" dy="0">Transforms customer and campaign data into practical segmentation, behavioural</tspan>
+<tspan x="58" dy="32">insights and business recommendations.</tspan>
+</text>
+</svg>
