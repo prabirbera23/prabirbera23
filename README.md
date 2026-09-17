@@ -109,13 +109,6 @@ Marketing and customer analysis using data modelling, SQL, Python, and clear bus
 
 ---
 
-## Existing Work
-
-### [Salesforce Marketing Cloud](https://github.com/prabirbera23/Salesforce-Marketing-Cloud)
-
-A public repository containing Salesforce Marketing Cloud learning and implementation work.
-
----
 
 ## Certifications
 
