@@ -1,0 +1,39 @@
+<svg width="1014" height="458" viewBox="0 0 1014 458" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1014" height="458" fill="#0D1117"/>
+<text x="29" y="53" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700">Portfolio Roadmap</text>
+<line x1="29" y1="70.5" x2="985" y2="70.5" stroke="#30363D"/>
+
+<rect x="29.5" y="94.5" width="955" height="50" fill="#0D1117" stroke="#30363D"/>
+<rect x="29.5" y="145" width="955" height="58" fill="#0D1117" stroke="#30363D"/>
+<rect x="29.5" y="203" width="955" height="58" fill="#161B22" stroke="#30363D"/>
+<rect x="29.5" y="261" width="955" height="58" fill="#0D1117" stroke="#30363D"/>
+<rect x="29.5" y="319" width="955" height="58" fill="#161B22" stroke="#30363D"/>
+<rect x="29.5" y="377" width="955" height="58" fill="#0D1117" stroke="#30363D"/>
+
+<line x1="220" y1="95" x2="220" y2="435" stroke="#30363D"/>
+<line x1="785" y1="95" x2="785" y2="435" stroke="#30363D"/>
+
+<text x="49" y="128" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Area</text>
+<text x="242" y="128" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Project</text>
+<text x="806" y="128" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Status</text>
+
+<text x="49" y="181" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">CDP</text>
+<text x="242" y="181" fill="#58A6FF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">Segment Implementation — Ecommerce and Retail</text>
+<text x="806" y="181" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">In progress</text>
+
+<text x="49" y="239" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">CDP</text>
+<text x="242" y="239" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">Salesforce Data 360 implementation</text>
+<text x="806" y="239" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">Planned</text>
+
+<text x="49" y="297" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">CDP</text>
+<text x="242" y="297" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">Adobe Real-Time CDP implementation</text>
+<text x="806" y="297" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">Planned</text>
+
+<text x="49" y="355" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">AI</text>
+<text x="242" y="355" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">AI-assisted JIRA ticket automation</text>
+<text x="806" y="355" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">Planned</text>
+
+<text x="49" y="413" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">Data &amp; Analytics</text>
+<text x="242" y="413" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">Marketing analytics with SQL and Python</text>
+<text x="806" y="413" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">Planned</text>
+</svg>
