@@ -73,67 +73,56 @@ Marketing and customer analysis using data modelling, SQL, Python, and clear bus
 
 <table width="100%">
 <tr>
-<td width="78%" valign="top">
+<td width="80%" valign="top">
 
 ### [Twilio Segment CDP — Ecommerce & Retail](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
 
+Designed an end-to-end customer-data foundation connecting ecommerce, offline, marketplace, and CRM data for unified profiles and activation.
+
+**[View project →](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)**
+
 </td>
-<td width="22%" align="right" valign="top">
+<td width="20%" align="right" valign="top">
 
 🟢 **In progress**
 
 </td>
 </tr>
-<tr>
-<td colspan="2">
-
-Designed an end-to-end customer-data foundation connecting ecommerce, offline, marketplace, and CRM data to support unified profiles and audience activation.
-
-**[View project →](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)**
-
-</td>
-</tr>
 </table>
+
+<br>
 
 <table width="100%">
 <tr>
-<td width="78%" valign="top">
+<td width="80%" valign="top">
 
 ### AI-Assisted JIRA Ticket Automation
 
-</td>
-<td width="22%" align="right" valign="top">
-
-🟡 **Planned**
+An AI workflow that converts business requests into structured, implementation-ready MarTech tickets.
 
 </td>
-</tr>
-<tr>
-<td colspan="2">
+<td width="20%" align="right" valign="top">
 
-An AI-assisted workflow that converts business requests into structured, implementation-ready MarTech tickets.
+🟢 **Planned**
 
 </td>
 </tr>
 </table>
 
+<br>
+
 <table width="100%">
 <tr>
-<td width="78%" valign="top">
+<td width="80%" valign="top">
 
 ### Marketing Analytics with SQL & Python
 
-</td>
-<td width="22%" align="right" valign="top">
-
-🟡 **Planned**
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
 Transforms customer and campaign data into practical segmentation, behavioural insights, and business recommendations.
+
+</td>
+<td width="20%" align="right" valign="top">
+
+🟢 **Planned**
 
 </td>
 </tr>
