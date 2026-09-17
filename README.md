@@ -6,10 +6,7 @@
 
 I design customer-data architectures and practical marketing technology solutions that connect **CDP**, **AI**, and **data analytics** to measurable customer and business outcomes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabirbera)
-[![Featured Case Study](https://img.shields.io/badge/Featured_Case_Study-Twilio_Segment-635BFF?style=flat)](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Trend_Zone-238636?style=flat)](https://trendzone.prabirbera.com/)
-[![Certifications](https://img.shields.io/badge/Certifications-View-bc4c00?style=flat)](#certifications)
+[![LinkedIn](assets/nav-linkedin.svg)](https://www.linkedin.com/in/prabirbera)&nbsp;&nbsp;[![Portfolio Website](assets/nav-portfolio.svg)](https://trendzone.prabirbera.com/)&nbsp;&nbsp;[![Certifications](assets/nav-certifications.svg)](#certifications)&nbsp;&nbsp;[![Featured Case Study](assets/nav-case-study.svg)](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
 
 </div>
 
