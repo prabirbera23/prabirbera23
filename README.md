@@ -6,7 +6,20 @@
 
 I design customer-data architectures and practical marketing technology solutions that connect **CDP**, **AI**, and **data analytics** to measurable customer and business outcomes.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabirbera)
+[![Featured Case Study](https://img.shields.io/badge/Featured_Case_Study-Twilio_Segment-635BFF?style=flat)](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Trend_Zone-238636?style=flat)](https://trendzone.prabirbera.com/)
+[![Certifications](https://img.shields.io/badge/Certifications-View-bc4c00?style=flat)](#certifications)
+
 </div>
+
+---
+
+## About Me
+
+I work at the intersection of **marketing, customer data, and technology**. My focus is translating business requirements into scalable customer-data architectures, identity strategies, audience frameworks, and activation use cases.
+
+This portfolio documents not only what I build, but also the **problems, decisions, trade-offs, validation, and product judgement** behind each solution.
 
 ---
 
@@ -56,30 +69,47 @@ Marketing and customer analysis using data modelling, SQL, Python, and clear bus
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### [Twilio Segment CDP Implementation for Ecommerce and Retail](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
+### [Twilio Segment CDP — Ecommerce & Retail](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
 
-An end-to-end CDP portfolio case study for **Trend Zone**, a fictional ecommerce and retail company. The implementation brings behavioural, transactional, CRM, and external data together to build unified customer profiles and support audience activation.
+Designed an end-to-end customer-data foundation connecting ecommerce, offline, marketplace, and CRM data to support unified profiles and audience activation.
 
-**Current implementation**
+> **Status:** Active implementation and documentation in progress · **[View project →](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)**
 
-- WooCommerce data layer and Google Tag Manager
-- Segment Analytics.js source integration
-- Page, track, and identify calls
-- Anonymous-to-known customer identification
-- Ecommerce event collection and validation
+### AI-Assisted JIRA Ticket Automation
 
-**Planned project scope**
+Designing an AI-assisted workflow to convert business requests into structured, implementation-ready MarTech tickets.
 
-- WooCommerce real-time behavioural and transactional data
-- Snowflake batch data
-- Marketplace/API data
-- Salesforce CRM data
-- Identity resolution and Customer 360
-- Audience creation and downstream activation
+> **Status:** Planned
 
-> Status: Active implementation and documentation in progress. **[View project →](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)**
+### Marketing Analytics with SQL & Python
+
+Building practical customer and campaign analyses that turn behavioural data into segmentation, insights, and business recommendations.
+
+> **Status:** Planned
+
+---
+
+## Featured Case Study
+
+### [Trend Zone: Building a Practical Customer Data Platform](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
+
+| Problem | Decision | Implementation | Outcome |
+|---|---|---|---|
+| Customer interactions were fragmented across ecommerce, offline transactions, marketplace orders, and CRM. | Use Twilio Segment as the collection and identity layer, delivered incrementally through source-based sprints. | Connected WooCommerce through GTM, validated Snowflake batch ingestion, simulated marketplace events through Postman, and integrated Salesforce CRM data. | Established a validated customer-data foundation for identity, behavioural audiences, Customer 360, and downstream activation. |
+
+---
+
+## Architecture & Product Decisions
+
+| Decision | Why it mattered | Product judgement |
+|---|---|---|
+| **GTM instead of hard-coded tracking** | Reduced dependency on website deployments and improved tracking governance. | Prioritized maintainability, controlled releases, and faster iteration. |
+| **Anonymous-to-known identity strategy** | Preserved pre-login behaviour when a customer later identified themselves. | Balanced profile continuity with consent-aware data collection. |
+| **Source substitution on the Segment Free plan** | The workspace allowed only two active sources. | Retained Snowflake implementation evidence, then replaced the source with Postman to demonstrate another integration pattern. |
+| **Sprint-based implementation** | Made validation and troubleshooting manageable across multiple systems. | Favoured demonstrable progress, evidence, and learning over one large launch. |
+| **Evidence-led documentation** | A portfolio claim is stronger when supported by debugger events, mappings, sync results, and architecture decisions. | Documented both successful implementation and practical limitations. |
 
 ---
 
@@ -90,8 +120,8 @@ An end-to-end CDP portfolio case study for **Trend Zone**, a fictional ecommerce
 | CDP | [Segment Implementation — Ecommerce and Retail](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail) | In progress |
 | CDP | Salesforce Data 360 implementation | Planned |
 | CDP | Adobe Real-Time CDP implementation | Planned |
-| AI | Marketing automation project | Planned |
-| Data & Analytics | Marketing analytics case studies | Planned |
+| AI | AI-assisted JIRA ticket automation | Planned |
+| Data & Analytics | Marketing analytics with SQL and Python | Planned |
 
 ---
 
@@ -103,13 +133,28 @@ A public repository containing Salesforce Marketing Cloud learning and implement
 
 ---
 
+## Certifications
+
+- Salesforce Marketing Cloud Email Specialist
+- Salesforce Pardot Specialist
+- Braze Certified Practitioner
+
+---
+
+## Technology
+
+`Twilio Segment` · `Braze` · `HubSpot` · `Salesforce` · `Snowflake` · `Google Tag Manager` · `Postman` · `SQL` · `Python`
+
+---
+
 ## What This Portfolio Demonstrates
 
 - Translating business problems into data and technology solutions
 - Designing customer-data collection and integration architectures
 - Implementing event tracking and identity strategies
 - Connecting technical implementation with marketing use cases
-- Documenting decisions, validation, limitations, and business impact
+- Making and documenting product decisions and trade-offs
+- Recording validation evidence, limitations, and business impact
 
 ---
 
