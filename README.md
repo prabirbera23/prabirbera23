@@ -99,44 +99,13 @@ Marketing and customer analysis using data modelling, SQL, Python, and clear bus
 
 ---
 
-## Portfolio Roadmap
+<div align="center">
 
-<table width="100%">
-<thead>
-<tr>
-<th width="20%" align="left">Area</th>
-<th width="60%" align="left">Project</th>
-<th width="20%" align="left">Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>CDP</td>
-<td><a href="https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail">Segment Implementation — Ecommerce and Retail</a></td>
-<td>In progress</td>
-</tr>
-<tr>
-<td>CDP</td>
-<td>Salesforce Data 360 implementation</td>
-<td>Planned</td>
-</tr>
-<tr>
-<td>CDP</td>
-<td>Adobe Real-Time CDP implementation</td>
-<td>Planned</td>
-</tr>
-<tr>
-<td>AI</td>
-<td>AI-assisted JIRA ticket automation</td>
-<td>Planned</td>
-</tr>
-<tr>
-<td>Data &amp; Analytics</td>
-<td>Marketing analytics with SQL and Python</td>
-<td>Planned</td>
-</tr>
-</tbody>
-</table>
+[![Portfolio Roadmap](assets/portfolio-roadmap.svg)](https://github.com/prabirbera23?tab=repositories)
+
+**[Explore the portfolio repositories →](https://github.com/prabirbera23?tab=repositories)**
+
+</div>
 
 ---
 
