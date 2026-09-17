@@ -1,0 +1,36 @@
+<svg width="1008" height="475" viewBox="0 0 1008 475" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1008" height="475" fill="#0D1117"/>
+<text x="25" y="48" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700">Featured Case Study</text>
+<line x1="25" y1="68.5" x2="976" y2="68.5" stroke="#30363D"/>
+<rect x="25" y="90" width="4" height="356" fill="#58A6FF"/>
+
+<text x="56" y="123" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700">Trend Zone: Building a Practical Customer Data Platform</text>
+
+<text x="56" y="176" fill="#58A6FF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Problem</text>
+<text x="56" y="215" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="56" dy="0">Customer interactions were fragmented across</tspan>
+<tspan x="56" dy="32">ecommerce, offline transactions, marketplace</tspan>
+<tspan x="56" dy="32">orders and CRM.</tspan>
+</text>
+
+<text x="523" y="176" fill="#58A6FF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Decision</text>
+<text x="523" y="215" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="523" dy="0">Use Segment as the collection and identity layer,</tspan>
+<tspan x="523" dy="32">implemented incrementally through source-</tspan>
+<tspan x="523" dy="32">based sprints.</tspan>
+</text>
+
+<text x="56" y="327" fill="#58A6FF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Implementation</text>
+<text x="56" y="367" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="56" dy="0">Connected WooCommerce via GTM, Snowflake</tspan>
+<tspan x="56" dy="32">batch data, Postman marketplace events and</tspan>
+<tspan x="56" dy="32">Salesforce CRM.</tspan>
+</text>
+
+<text x="523" y="327" fill="#58A6FF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Outcome</text>
+<text x="523" y="367" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="523" dy="0">Created a validated foundation for unified</tspan>
+<tspan x="523" dy="32">profiles, behavioural audiences and downstream</tspan>
+<tspan x="523" dy="32">activation.</tspan>
+</text>
+</svg>
