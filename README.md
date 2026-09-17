@@ -30,7 +30,7 @@ Customer data architecture, data collection, identity resolution, Customer 360, 
 
 **Platforms**
 
-- Twilio Segment
+- [Twilio Segment](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
 - Salesforce Data 360
 - Adobe Real-Time CDP
 
