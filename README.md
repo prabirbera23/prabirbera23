@@ -89,15 +89,13 @@ Marketing and customer analysis using data modelling, SQL, Python, and clear bus
 
 ---
 
-## Architecture & Product Decisions
+<div align="center">
 
-| Decision | Why it mattered | Product judgement |
-|---|---|---|
-| **GTM instead of hard-coded tracking** | Reduced dependency on website deployments and improved tracking governance. | Prioritized maintainability, controlled releases, and faster iteration. |
-| **Anonymous-to-known identity strategy** | Preserved pre-login behaviour when a customer later identified themselves. | Balanced profile continuity with consent-aware data collection. |
-| **Source substitution on the Segment Free plan** | The workspace allowed only two active sources. | Retained Snowflake implementation evidence, then replaced the source with Postman to demonstrate another integration pattern. |
-| **Sprint-based implementation** | Made validation and troubleshooting manageable across multiple systems. | Favoured demonstrable progress, evidence, and learning over one large launch. |
-| **Evidence-led documentation** | A portfolio claim is stronger when supported by debugger events, mappings, sync results, and architecture decisions. | Documented both successful implementation and practical limitations. |
+[![Architecture and Product Decisions](assets/architecture-product-decisions.svg)](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
+
+**[Explore the architecture and implementation decisions →](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)**
+
+</div>
 
 ---
 
