@@ -70,7 +70,6 @@ Marketing and customer analysis using data modelling, SQL, Python, and clear bus
 
 [![Featured Projects](assets/featured-projects.svg)](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
 
-[Twilio Segment CDP — Ecommerce & Retail](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail) · AI-Assisted JIRA Ticket Automation *(Planned)* · Marketing Analytics with SQL & Python *(Planned)*
 
 </div>
 
