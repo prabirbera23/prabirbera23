@@ -79,13 +79,13 @@ Marketing and customer analysis using data modelling, SQL, Python, and clear bus
 
 ---
 
-## Featured Case Study
+<div align="center">
 
-### [Trend Zone: Building a Practical Customer Data Platform](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
+[![Featured Case Study — Trend Zone](assets/featured-case-study.svg)](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
 
-| Problem | Decision | Implementation | Outcome |
-|---|---|---|---|
-| Customer interactions were fragmented across ecommerce, offline transactions, marketplace orders, and CRM. | Use Twilio Segment as the collection and identity layer, delivered incrementally through source-based sprints. | Connected WooCommerce through GTM, validated Snowflake batch ingestion, simulated marketplace events through Postman, and integrated Salesforce CRM data. | Established a validated customer-data foundation for identity, behavioural audiences, Customer 360, and downstream activation. |
+**[Explore the complete Trend Zone case study →](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)**
+
+</div>
 
 ---
 
