@@ -1,0 +1,54 @@
+<svg width="1014" height="762" viewBox="0 0 1014 762" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1014" height="762" fill="#0D1117"/>
+<text x="29" y="58" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700">Architecture &amp; Product Decisions</text>
+<line x1="29" y1="77.5" x2="979" y2="77.5" stroke="#30363D"/>
+
+<text x="44" y="141" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Decision</text>
+<text x="268" y="141" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Why it mattered</text>
+<text x="596" y="141" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Product judgement</text>
+<line x1="29" y1="165.5" x2="979" y2="165.5" stroke="#30363D"/>
+
+<text x="44" y="207" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">
+<tspan x="44" dy="0">GTM over hard-</tspan><tspan x="44" dy="33">coded tracking</tspan>
+</text>
+<text x="268" y="207" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="268" dy="0">Improved governance and</tspan><tspan x="268" dy="33">reduced dependence on</tspan><tspan x="268" dy="33">website deployments.</tspan>
+</text>
+<text x="596" y="207" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="596" dy="0">Prioritized maintainability and faster</tspan><tspan x="596" dy="33">iteration.</tspan>
+</text>
+<line x1="29" y1="297.5" x2="979" y2="297.5" stroke="#30363D"/>
+
+<text x="44" y="339" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">
+<tspan x="44" dy="0">Anonymous-to-</tspan><tspan x="44" dy="33">known identity</tspan>
+</text>
+<text x="268" y="339" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="268" dy="0">Preserved pre-login behaviour</tspan><tspan x="268" dy="33">when customers later identified</tspan><tspan x="268" dy="33">themselves.</tspan>
+</text>
+<text x="596" y="339" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="596" dy="0">Balanced customer continuity with</tspan><tspan x="596" dy="33">consent-aware collection.</tspan>
+</text>
+<line x1="29" y1="429.5" x2="979" y2="429.5" stroke="#30363D"/>
+
+<text x="44" y="471" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">
+<tspan x="44" dy="0">Source substitution</tspan><tspan x="44" dy="33">on free plan</tspan>
+</text>
+<text x="268" y="471" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="268" dy="0">Segment allowed only two</tspan><tspan x="268" dy="33">active sources.</tspan>
+</text>
+<text x="596" y="471" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="596" dy="0">Retained Snowflake evidence, then</tspan><tspan x="596" dy="33">replaced it with Postman to</tspan><tspan x="596" dy="33">demonstrate broader integration</tspan><tspan x="596" dy="33">patterns.</tspan>
+</text>
+<line x1="29" y1="592.5" x2="979" y2="592.5" stroke="#30363D"/>
+
+<text x="44" y="634" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">
+<tspan x="44" dy="0">Sprint-based</tspan><tspan x="44" dy="33">implementation</tspan>
+</text>
+<text x="268" y="634" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="268" dy="0">Made validation and</tspan><tspan x="268" dy="33">troubleshooting manageable</tspan><tspan x="268" dy="33">across multiple systems.</tspan>
+</text>
+<text x="596" y="634" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">
+<tspan x="596" dy="0">Favoured demonstrable learning and</tspan><tspan x="596" dy="33">evidence over a single large launch.</tspan>
+</text>
+<line x1="29" y1="725.5" x2="979" y2="725.5" stroke="#30363D"/>
+</svg>
