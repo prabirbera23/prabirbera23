@@ -31,7 +31,7 @@ Customer data architecture, data collection, identity resolution, Customer 360, 
 **Platforms**
 
 - [Twilio Segment](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
-- [Salesforce Data 360](https://github.com/prabirbera23/salesforce-data-360-aviation)
+- [Salesforce Data 360](https://github.com/prabirbera23/salesforce-data-360-aviation) — **In Progress**
 - Adobe Real-Time CDP
 
 </td>
@@ -116,7 +116,7 @@ Marketing and customer analysis using data modelling, SQL, Python, and clear bus
 
 ## Technology
 
-`Twilio Segment` · `Braze` · `HubSpot` · `Salesforce` · `Snowflake` · `Google Tag Manager` · `Postman` · `SQL` · `Python`
+`Twilio Segment` · `Salesforce Data 360` · `Braze` · `HubSpot` · `Salesforce` · `AWS` · `Snowflake` · `Google Tag Manager` · `Postman` · `SQL` · `Python`
 
 ---
 
