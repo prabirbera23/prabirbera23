@@ -30,7 +30,7 @@ Customer data architecture, data collection, identity resolution, Customer 360, 
 
 **Platforms**
 
-- [Twilio Segment](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
+- [Twilio Segment](https://github.com/prabirbera23/trend-zone-cdp-portfolio)
 - [Salesforce Data 360](https://github.com/prabirbera23/salesforce-data-360-aviation) — **In Progress**
 - Adobe Real-Time CDP
 
@@ -68,7 +68,7 @@ Marketing and customer analysis using data modelling, SQL, Python, and clear bus
 
 <div align="center">
 
-[![Featured Projects](assets/featured-projects.svg)](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
+[![Featured Projects](assets/featured-projects.svg)](https://github.com/prabirbera23/trend-zone-cdp-portfolio)
 
 
 </div>
@@ -77,9 +77,9 @@ Marketing and customer analysis using data modelling, SQL, Python, and clear bus
 
 <div align="center">
 
-[![Featured Case Study — Trend Zone](assets/featured-case-study.svg)](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
+[![Featured Case Study — Trend Zone](assets/featured-case-study.svg)](https://github.com/prabirbera23/trend-zone-cdp-portfolio)
 
-**[Explore the complete Trend Zone case study →](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)**
+**[Explore the complete Trend Zone case study →](https://github.com/prabirbera23/trend-zone-cdp-portfolio)**
 
 </div>
 
@@ -87,9 +87,9 @@ Marketing and customer analysis using data modelling, SQL, Python, and clear bus
 
 <div align="center">
 
-[![Architecture and Product Decisions](assets/architecture-product-decisions.svg)](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)
+[![Architecture and Product Decisions](assets/architecture-product-decisions.svg)](https://github.com/prabirbera23/trend-zone-cdp-portfolio)
 
-**[Explore the architecture and implementation decisions →](https://github.com/prabirbera23/segment-cdp-for-ecommerce-retail)**
+**[Explore the architecture and implementation decisions →](https://github.com/prabirbera23/trend-zone-cdp-portfolio)**
 
 </div>
 
